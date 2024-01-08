@@ -23,5 +23,13 @@ python src/main.py -d ICEWS14 --train-history-len 7 --test-history-len 7 --dilat
 ```
 ### Cite
 Please cite our paper if you find this code useful for your research.
+~~~
+@article{chen2023local,
+  title={Local-Global History-aware Contrastive Learning for Temporal Knowledge Graph Reasoning},
+  author={Chen, Wei and Wan, Huaiyu and Wu, Yuting and Zhao, Shuyuan and Cheng, Jiayaqi and Li, Yuxin and Lin, Youfang},
+  journal={arXiv preprint arXiv:2312.01601},
+  year={2023}
+}
+~~~
 
 
