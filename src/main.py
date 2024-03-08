@@ -14,7 +14,7 @@ import random
 sys.path.append(".")
 from rgcn import utils
 from rgcn.utils import build_sub_graph, build_graph
-from src.rrgcn_opt import RecurrentRGCN
+from src.rrgcn import RecurrentRGCN
 from src.hyperparameter_range import hp_range
 import torch.nn.modules.rnn
 from collections import defaultdict
